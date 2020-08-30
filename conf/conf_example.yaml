@@ -1,0 +1,7 @@
+oss:
+  endpoint: oss-cn-beijing.aliyuncs.com
+  key: aa
+  secret: bb
+
+ossBasePath: test/
+ossDomain: https://image.blacklad.com
